@@ -7,7 +7,7 @@
 * All fields from `ListView.builder`、`SliverList.builder` constructor available.
 
 ## screenshot
-<img src="assets/slier_list_view.png" title="" alt="image" width="450">
+<img src="assets/sliver_list_view.png" title="" alt="image" width="450">
 
 ## Getting Started
 
