@@ -1,7 +1,9 @@
 name: flutter_group_list_view
-description: A new Flutter package project.
+description: Flutter package for SliverList、ListView that allows you to group list items and support headers 、footers.
 version: 1.0.0
-homepage:
+author: liuhui
+homepage: https://github.com/GuoguoDad/flutter_group_list_view/blob/main/README.md
+repository: https://github.com/GuoguoDad/flutter_group_list_view.git
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
