@@ -20,7 +20,7 @@ Add the package to your pubspec.yaml:
 In your dart file, import the library:
 
  ```Dart
-import 'package:group_list_view/group_list_view.dart';
+import 'package:flutter_group_list_view/flutter_group_list_view.dart';
  ``` 
 
 Instead of using a `ListView` create a `GroupListView` Widget:
@@ -28,17 +28,17 @@ Instead of using a `ListView` create a `GroupListView` Widget:
  ```Dart
 List _elements = [
   {
-    "storeName": "ASICS 旗舰店",
+    "storeName": "ASICS Store",
     "storeCode": "s01",
     "goodsList": [{}, {}]
   },
   {
-    "storeName": "SALOMON 官方旗舰店",
+    "storeName": "SALOMON Store",
     "storeCode": "s02",
     "goodsList": [{}]
   },
   {
-    "storeName": "ASICS 旗舰店",
+    "storeName": "ASICS Store",
     "storeCode": "s01",
     "goodsList": [{}, {}]
   }
