@@ -14,7 +14,7 @@
 Add the package to your pubspec.yaml:
 
  ```yaml
- flutter_group_list_view: ^1.0.0
+ flutter_group_list_view: ^1.0.2
  ```
 
 In your dart file, import the library:
