@@ -23,17 +23,17 @@ class MyApp extends StatelessWidget {
 
 List _elements = [
   {
-    "storeName": "ASICS 旗舰店",
+    "storeName": "ASICS store",
     "storeCode": "s01",
     "goodsList": [{}, {}]
   },
   {
-    "storeName": "SALOMON 官方旗舰店",
+    "storeName": "SALOMON store",
     "storeCode": "s02",
     "goodsList": [{}]
   },
   {
-    "storeName": "ASICS 旗舰店",
+    "storeName": "ASICS store",
     "storeCode": "s01",
     "goodsList": [{}, {}]
   }
